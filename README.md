@@ -1,6 +1,6 @@
 # DSC180A-Methodology-4
 
-Shentong
+Shentong Li
 
 shl091@ucsd.edu
 
