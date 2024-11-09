@@ -1,3 +1,6 @@
 # DSC180A-Methodology-4
 
-Shentong Li and Gloria Kao
+Shentong Li
+
+shl091@ucsd.edu
+
