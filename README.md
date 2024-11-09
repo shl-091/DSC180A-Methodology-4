@@ -1,6 +1,6 @@
 # DSC180A-Methodology-4
 
-Judy Li
+Shentong
 
 shl091@ucsd.edu
 
