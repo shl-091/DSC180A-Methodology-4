@@ -1,3 +1,5 @@
 # DSC180A-Methodology-4
 
-Shentong and Gloria
+Shentong Li and Gloria Kao
+
+
